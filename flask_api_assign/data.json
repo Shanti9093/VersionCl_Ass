@@ -1,6 +1,5 @@
 {
   "name": "Shanti",
-  "course": "Git Assignment",
-  "status": "Updated from Shanti_new branch"
-  
+  "branch": "Shanti_new",
+  "message": "Updated in new branch"
 }
